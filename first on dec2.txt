@@ -2,5 +2,9 @@ hai  my name is madhu
 hello
 devops
 aws
+<<<<<<< HEAD
 full course
 aws+devops engg
+=======
+full course
+>>>>>>> a59e97761e403d880cf2eafc1e2ca6394ac2f56b

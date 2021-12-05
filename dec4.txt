@@ -2,7 +2,3 @@ this on date dec-2-2021
 today is sunday
 time is around 12 o clock
 oh no time chnages
-<<<<<<< HEAD
-=======
-work hard with concept
->>>>>>> a59e97761e403d880cf2eafc1e2ca6394ac2f56b

@@ -3,8 +3,12 @@ hello
 devops
 aws
 <<<<<<< HEAD
+<<<<<<< HEAD
 full course
 aws+devops engg
 =======
 full course
 >>>>>>> a59e97761e403d880cf2eafc1e2ca6394ac2f56b
+=======
+full course
+>>>>>>> e561e260f217bdccc34d4b814960b734407f44e1
